@@ -32,7 +32,7 @@
 - **Building** production AI systems at [Inspiring Seniors Foundation](https://inspiringseniors.org) — RAG pipelines, multi-agent workflows, and voice AI (Dec 2025–Present)
 - **Shipped** voice agents with sub-500ms latency across 8 Indian languages and medical triage AI hitting 92% classification accuracy
 - **Learning next** — LLM fine-tuning, evals, and agent orchestration at scale
-- **Top 10** at Reckon 6.0 Hackathon · 600+ LeetCode problems solved · CGPA 9.6/10 (BCA, Jagannath University)
+- **600+** LeetCode problems solved · CGPA 9.3/10 (BCA, Jagannath University)
 - **Fun fact** — I think in graphs. If it can be a node, it should be.
 
 ---
@@ -43,32 +43,46 @@
 
 **AI / ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python PyTorch"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/FAISS-0EA5E9?style=flat-square" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Pinecone-00B489?style=flat-square" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/FAISS-0EA5E9?style=flat-square&logoColor=white" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Pinecone-00B489?style=flat-square&logoColor=white" alt="Pinecone"/>
 
 <br/><br/>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,graphql&theme=dark" alt="Backend stack"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
 
 <br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,typescript&theme=dark" alt="Frontend stack"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 <br/><br/>
 
 **Data & Infrastructure**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,aws,firebase,githubactions&theme=dark" alt="Data & Infra stack"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
 </div>
 
@@ -163,9 +177,9 @@ QR-code triggered AR menu experience — no app install required. Scan, view 3D 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Devgr72&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Devgr72&theme=flat&no-frame=true&column=7&margin-w=4"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Devgr72&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Devgr72&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Devgr72&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Devgr72&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%"/>
 </picture>
 
 <br/>
